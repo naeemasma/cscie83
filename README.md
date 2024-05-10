@@ -13,13 +13,13 @@ The forecasting model developed by this project can be used to predict air trave
 
 We will use the four steps below to find the best forecasting model for predicting the demand for air travel.
 
-1.	Gather Information about data/ Data Pre-Processing
+- Gather Information about data/ Data Pre-Processing
 
-2.	Primary Exploratory data analysis.
+- Primary Exploratory data analysis.
 
-3.	Choose and fit the Model. 
+- Choose and fit the Model. 
 
-4.	Use and Evaluate Model.
+- Use and Evaluate Model.
 
 
 1.	Gathering Information about Data/ Data Pre-processing:
