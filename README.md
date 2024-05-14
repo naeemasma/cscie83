@@ -1,5 +1,7 @@
 Time Series Demand Forecasting
 
+http://cscie80.s3-website-us-east-1.amazonaws.com/
+
 Problem Statement:
 
 The objective of this project is to come up with the best forecasting model to predict air travel demand. The selected dataset is public data, which is available from data.world(Original Source: San Francisco Open Data). This dataset is a San Francisco International Airport Report on Monthly Passenger Traffic Statistics by Airline from 2005 to 2016. Airport data is seasonal. Hence, any comparative analyses would be performed on a period-over-period basis (such as March 2015 vs. March 2016) instead of period-to-period (such as. March 2015 vs. April 2015). Notably, fact and attribute field relationships are not always 1-to-1. For example, Passenger Counts belonging to Southwest Airlines will appear in multiple attribute fields and are additive, allowing us to draw categorical Passenger Counts for the analyses.
