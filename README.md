@@ -20,3 +20,15 @@ We will use the four steps below to find the best forecasting model for predicti
 - Choose and fit the Model. 
 
 - Use and Evaluate Model.
+  
+Forecasting Models:
+
+- Linear Regression Forecasting Model(Deg=2) with BoCox Transformation
+  
+- ARIMA
+  
+- Autoregression
+  
+- SARIMAX
+
+- Prophet 
